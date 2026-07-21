@@ -1,6 +1,6 @@
 # 基于 Langchain 的扫地机器人智能客服 Agent
 
-本项是一个专门针对扫地机器人售后与咨询场景开发的智能客服系统。项目基于 **Langchain** 框架构建，实现了具备 **多轮对话记忆持久化**、**RAG 领域知识检索**以及 **原生 Function Calling** 能力的 ReAct 架构 Agent。
+本项是一个专门针对扫地机器人售后与咨询场景开发的智能客服系统。项目基于 **LangChain** 框架构建，实现了具备 **多轮对话记忆持久化**、**RAG 领域知识检索**以及 **原生 Function Calling** 能力的 ReAct 架构 Agent。
 
 ## 🚀 核心功能
 
@@ -12,11 +12,11 @@
 
 ## 🛠️ 技术栈
 
-*   **LLM**: 通义千问 `qwen3-max` 
-*   **Orchestration**: Langgraph, Langchain
-*   **Storage**: SQLite (状态持久化), ChromaDB (向量存储)
-*   **Frontend**: Streamlit
-*   **API**: wttr.in (实时天气接口)
+*   **Python**
+*   **LangChian**
+*   **SQLite (状态持久化), ChromaDB (向量存储)**
+*   **Qwen大模型**
+*   **RAG**: wttr.in (实时天气接口)
 
 ## 📂 项目结构
 
