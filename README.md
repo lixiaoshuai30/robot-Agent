@@ -16,7 +16,7 @@
 *   **LangChian**
 *   **SQLite (状态持久化), ChromaDB (向量存储)**
 *   **Qwen大模型**
-*   **RAG**: wttr.in (实时天气接口)
+*   **RAG**
 
 ## 📂 项目结构
 
